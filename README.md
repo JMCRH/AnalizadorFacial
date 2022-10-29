@@ -14,3 +14,14 @@ Página de donde se obtienen lás imagenes que se utilizan para entrenar al mode
 
 Investigación profesional acerca del aprendizaje profundo e ingeniería de software
 - https://dehesa.unex.es/bitstream/10662/9683/1/TFGUEX_2019_Rodriguez_Rodriguez.pdf
+
+Investigaciones y tésis acerca del reconocimiento facial
+- https://oa.upm.es/625/1/10200408.pdf
+Reconocimiento facial con base en imágenes
+- https://revista.redipe.org/index.php/1/article/view/267
+
+Técnicas de reconocimiento facial:
+- https://upcommons.upc.edu/bitstream/handle/2099.1/9782/PFC_RogerGimeno.pdf
+
+Reconocimiento por redes neuronales
+-https://oa.upm.es/215/
