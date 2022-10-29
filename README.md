@@ -17,6 +17,7 @@ Investigación profesional acerca del aprendizaje profundo e ingeniería de soft
 
 Investigaciones y tésis acerca del reconocimiento facial
 - https://oa.upm.es/625/1/10200408.pdf
+
 Reconocimiento facial con base en imágenes
 - https://revista.redipe.org/index.php/1/article/view/267
 
