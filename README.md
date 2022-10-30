@@ -25,4 +25,7 @@ Técnicas de reconocimiento facial:
 - https://upcommons.upc.edu/bitstream/handle/2099.1/9782/PFC_RogerGimeno.pdf
 
 Reconocimiento por redes neuronales
--https://oa.upm.es/215/
+- https://oa.upm.es/215/
+
+Expliacación de un sistema de detección facial:
+- http://sinc.unl.edu.ar/sinc-publications/2010/SMS10/sinc_SMS10.pdf
